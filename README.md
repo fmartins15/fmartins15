@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fmartins15
 - 👀 I’m interested in Biomedical Engeneering
-- 🌱 I’m currently learning AIs for my biomedical lab
+- 🌱 I’m currently working with comunication protocols for a health tech enterprise
 - 💞️ I’m looking to collaborate on Helth Tech projects
 - 📫 How to reach me? My email is fma.peteel@gmail.com
 - ⚡ Fun fact: I love basketball
